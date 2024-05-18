@@ -1,0 +1,10 @@
+{
+  "name": "5d1c1a94-b728-43db-8cb5-9a7dedd480ba",
+  "displayName": "Reservations",
+  "description": "Lista de reservas disponibles para lavado de mascotas en un establecimiento determinado. Permite a los usuarios hacer reservas para eventos en determinados establecimientos, a determinadas horas.",
+  "openApiSpec": {
+  
+  },
+  "schemas": [ "Pet" ],
+  "toolType": "CUSTOMIZED_TOOL"
+}
